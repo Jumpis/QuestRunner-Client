@@ -21,6 +21,6 @@ Rank
 Store
 <img src="/src/img/store.gif?raw=true">
 UserInfo
-<img src="/src/img/userinfo.gif?raw=true">
+<img src="/src/img/Userinfo.gif?raw=true">
 Darkmode
 <img src="/src/img/darkmode.gif?raw=true">
