@@ -24,3 +24,14 @@ UserInfo
 <img src="/src/img/Userinfo.gif?raw=true">
 Darkmode
 <img src="/src/img/darkmode.gif?raw=true">
+
+# My Works
+- Role : Team Member
+- Position : Front-end
+- Stack : React, React Hooks, Redux, react-redux-router, redux-toolkit, redux-persist, Typescript, material-UI
+- Works :
+    1. Redux configuration & implementation
+    2. Main Page Component (Runner Avatar & Exp Bar)
+    3. Navigation Component (Nav bar & Nav bar component routing)
+    4. Userinfo Component (Userinfo drawer & image edit & userinfo edit)
+    5. Quest Component 
