@@ -6,7 +6,7 @@
 # Stacks
 ![enter image description here](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a0a4d8ae-3bd9-4f01-b32a-98f506562273/stack.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5/20200525/us-west-2/s3/aws4_request&X-Amz-Date=20200525T223445Z&X-Amz-Expires=86400&X-Amz-Signature=e56193b5974fcda10ede31d4be86983e28db4eb10e4a6f8bf5018e366c33a6c3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20=%22stack.png%22)
 # Tech Flow
-![enter image description here](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9aadd83e-f85f-46fd-9188-42d63b442201/Frame_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5/20200525/us-west-2/s3/aws4_request&X-Amz-Date=20200525T223622Z&X-Amz-Expires=86400&X-Amz-Signature=10e863c4150a252ac3fd219540d744fcda5e7694117572c278bdcac5602e83cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20=%22Frame_1.png%22)
+<img src="/src/img/Frame_1.png?raw=true"
 
 # Demonstration GIFS 
 
