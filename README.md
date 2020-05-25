@@ -11,7 +11,7 @@
 # Demonstration GIFS 
 
 Sign Up & Sign In
-![enter image description here](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b34c2c9-fc39-4245-b27a-4712dbb24b3b/signupsignin.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5/20200525/us-west-2/s3/aws4_request&X-Amz-Date=20200525T223812Z&X-Amz-Expires=86400&X-Amz-Signature=61ddcc7328f39556ecbc674112bc5d1bd327d5336a17e72641c38810d204f362&X-Amz-SignedHeaders=host&response-content-disposition=filename%20=%22signupsignin.gif%22)
+<img src="/src/img/signupsignin.gif?raw=true">
 Quest
 ![enter image description here](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a67570c1-9c26-4e3f-b3f4-57b4bb2d369b/quest.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5/20200525/us-west-2/s3/aws4_request&X-Amz-Date=20200525T223916Z&X-Amz-Expires=86400&X-Amz-Signature=83b82217d79839f1e8133d2c6ca42921bd8d449fee936ad12e8e41b3137ebc76&X-Amz-SignedHeaders=host&response-content-disposition=filename%20=%22quest.gif%22)
 Achievement
